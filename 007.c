@@ -1,6 +1,6 @@
 /*
 ..........................................................................................................................................
-Name : 002.c
+Name : 007.c
 Author : SHRUTI VERMA
 Description : Write a program to copy file1 into file2 ($cp file1 file2).
 Date : 22 Aug 2025
