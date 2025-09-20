@@ -1,6 +1,6 @@
 /*
 ..........................................................................................................................................
-Name : 002.c
+Name : 006.c
 Author : SHRUTI VERMA
 Description : Write a program to take input from STDIN and display on STDOUT. Use only read/write system calls
 Date : 22 Aug 2025
