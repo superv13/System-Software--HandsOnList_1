@@ -17,7 +17,7 @@ int main(){
 	int pid = getpid();
         char command[100];
 	while(n){
-                printf("infinity ");
+        printf("infinity ");
 		sprintf(command, "ls -l /proc/%d/cmdline", pid);
 		sprintf(command, "ls -l /proc/%d/status", pid);
 		system(command);

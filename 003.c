@@ -1,6 +1,6 @@
 /*
 ..........................................................................................................................................
-Name : 002.c
+Name : 003.c
 Author : SHRUTI VERMA
 Description : Write a program to create a file and print the file descriptor value. Use creat ( ) system call
 Date : 22 Aug 2025

@@ -37,6 +37,7 @@ int main() {
         char buf[50];
         read(STDIN_FILENO, buf, sizeof(buf));
         printf("input from the STDIN : %s\n", buf);
+        }
     }
     return 0;
 
